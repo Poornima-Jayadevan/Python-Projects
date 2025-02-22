@@ -1,0 +1,22 @@
+# Byte-compiled / package files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Scrapy files
+*.log
+*.csv
+*.json
+*.xml
+*.jl
+
+# VS Code files
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
